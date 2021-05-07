@@ -1,0 +1,29 @@
+#button{
+   text-align: center;
+   border-radius: 1px;
+   
+}
+td{
+   width:100px;
+   height: 100px;
+  background: gray;
+  font-size: 40px;
+  text-align: center;
+  border-radius: 10px ;
+}
+table{
+   margin: 20px auto;
+   border-radius: 10px;
+   color:red;
+}
+body{
+   
+   background:greenyellow;
+}
+#container{
+   border: 2px solid black ;
+   width: 500px;
+   margin-left: 400px;
+   background:rgb(47, 213, 255);
+}
+
